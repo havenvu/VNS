@@ -1,0 +1,45 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+mat-toolbar{
+  background-color: '#fff'
+}
+mat-card{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+mat-card img{
+  object-fit: cover;
+  width: 400px;
+  height: 400px;
+  background-position: center;
+
+
+}
+.whole-card{
+  height: 550px;
+  max-width: 400px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 20px
+}
+.example-card{
+  height: 400px;
+  max-width: 450px;
+  border-radius: 50px;
+}
+
+.example-header-image {
+  background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+  background-size: cover;
+}
+
+
+.flex-row{
+  display:flex;
+  direction: row;
+  width: 100%;
+  justify-content: space-between;
+
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
