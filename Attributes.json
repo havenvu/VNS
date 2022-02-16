@@ -1,0 +1,131 @@
+{
+  "name": "HAPE #1474",
+  "description": "Samurai are trained to silence the world of dishonour. Hape has vowed silence as long as dishonour remains.",
+  "image": "https://opensea.io/assets/0x4db1f25d3d98600140dfc18deb7515be5bd293af/1474",
+  "dna": "unknown",
+  "edition": 1474,
+  "date": 1642734523690,
+  "attributes": [{
+      "trait_type": "Birthday",
+      "value": "11/01"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Embroidered Kimono"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "HUD"
+    },
+    {
+      "trait_type": "Face Addition",
+      "value": "Sewn Mouth"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Handmade",
+      "value": "Handmade"
+    },
+    {
+      "trait_type": "Weapons Behind back",
+      "value": "Samurai Sword"
+    },
+
+    {
+      "trait_type": "Nose Over Clothesw",
+      "value": "Flared"
+    }
+  ]
+},
+
+{
+  "name": "Doodle #2912",
+  "description": "Doods and doodettes. Find the best doodle that sparks joy in your life",
+  "image": "https://opensea.io/assets/0x8a90cab2b38dba80c64b7734e58ee1db38b8992e/2912",
+  "dna": "unknown",
+  "edition": 2912,
+  "date": 1642734523690,
+  "attributes": [{
+      "trait_type": "Backgroundsw",
+      "value": "Gold Space"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Gold Alien"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Gold Alien"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Goald Alien"
+    },
+    {
+      "trait_type": "Handmade",
+      "value": "Handmade"
+    },
+    {
+      "trait_type": "Shirt Logo",
+      "value": "Ethereum"
+    }
+  ]
+},
+
+
+{
+  "name": "War Drummer #1284",
+  "description": "Military drums or war drums are all kinds of drums and membranophones that have been used for martial music,including military communications as well as drill honors music and military ceremonies.",
+  "image": "https://github.com/Mukz95/hackathon/blob/main/1284.png",
+  "dna": "3d7975387af02a44ade58a9efa329a95a985a996",
+  "edition": 1284,
+  "date": 1642734523690,
+  "attributes": [{
+      "trait_type": "Backgroundsw",
+      "value": "AboriginalTrianglesGreen"
+    },
+    {
+      "trait_type": "Bodyw",
+      "value": "Lightskin"
+    },
+    {
+      "trait_type": "Mouthw",
+      "value": "MouthPaintedWhite"
+    },
+    {
+      "trait_type": "body-scars-tats",
+      "value": "Leopardprintbodyprint"
+    },
+    {
+      "trait_type": "Face Scar and tats",
+      "value": "DottedFaceprintwhite"
+    },
+    {
+      "trait_type": "eyebrows",
+      "value": "EyesW_PiercingPurple"
+    },
+    {
+      "trait_type": "Hairstyle Under clothesw",
+      "value": "TigerHeadressOrange"
+    },
+    {
+      "trait_type": "Weapons Behind back",
+      "value": "HyenaSwordHiltGold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "HuntressDressGreenRed"
+    },
+    {
+      "trait_type": "Nose Over Clothesw",
+      "value": "NoseRound"
+    }
+  ]
+}
