@@ -1,7 +1,7 @@
 {
   "name": "HAPE #1474",
   "description": "Samurai are trained to silence the world of dishonour. Hape has vowed silence as long as dishonour remains.",
-  "image": "https://github.com/havenvu/VNS/blob/main/samurai_ape.png",
+  "image": "https://raw.githubusercontent.com/havenvu/VNS/main/samurai_ape.png",
   "dna": "2321943219429141",
   "edition": 1474,
   "date": 1642734523690,
@@ -44,7 +44,7 @@
 {
   "name": "Doodle #2912",
   "description": "Doods and doodettes. Find the best doodle that sparks joy in your life",
-  "image": "https://github.com/havenvu/VNS/blob/main/gold_alien.png",
+  "image": "https://raw.githubusercontent.com/havenvu/VNS/main/gold_alien.png",
   "dna": "2321943219429141",
   "edition": 2912,
   "date": 1642734523690,
